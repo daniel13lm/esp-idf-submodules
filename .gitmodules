@@ -23,10 +23,6 @@
 	path = components/mbedtls/mbedtls
 	url = ../../espressif/mbedtls.git
 
-[submodule "components/lwip/lwip"]
-	path = components/lwip/lwip
-	url = ../../espressif/esp-lwip.git
-
 [submodule "components/mqtt/esp-mqtt"]
 	path = components/mqtt/esp-mqtt
 	url = ../../espressif/esp-mqtt.git
@@ -82,9 +78,6 @@
 [submodule "components/heap/tlsf"]
 	path = components/heap/tlsf
 	url = ../../espressif/tlsf.git
-[submodule "components/lwip/esp-lwip"]
-	path = components/lwip/esp-lwip
-	url = https://github.com/daniel13lm/esp-lwip.git
 [submodule "lwip"]
 	path = lwip
 	url = https://github.com/daniel13lm/lwip.git

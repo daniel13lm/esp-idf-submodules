@@ -78,9 +78,6 @@
 [submodule "components/heap/tlsf"]
 	path = components/heap/tlsf
 	url = ../../espressif/tlsf.git
-[submodule "lwip"]
-	path = lwip
-	url = https://github.com/daniel13lm/lwip.git
 [submodule "components/lwip/lwip"]
 	path = components/lwip/lwip
 	url = https://github.com/daniel13lm/lwip.git

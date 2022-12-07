@@ -85,3 +85,6 @@
 [submodule "components/lwip/esp-lwip"]
 	path = components/lwip/esp-lwip
 	url = https://github.com/daniel13lm/esp-lwip.git
+[submodule "lwip"]
+	path = lwip
+	url = https://github.com/daniel13lm/lwip.git

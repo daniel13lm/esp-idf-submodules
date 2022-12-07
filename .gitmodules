@@ -81,3 +81,6 @@
 [submodule "lwip"]
 	path = lwip
 	url = https://github.com/daniel13lm/lwip.git
+[submodule "components/lwip/--force"]
+	path = components/lwip/--force
+	url = https://github.com/daniel13lm/lwip.git
